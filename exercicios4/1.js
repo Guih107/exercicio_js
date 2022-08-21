@@ -48,7 +48,7 @@ if (numero1 > numero2 && numero3){
     console.log(numero2);
 }else{
     console.log(numero3);
-} */
+} 
 
 // exercicio 4 
 
@@ -58,5 +58,18 @@ if (posi > 0){
     console.log('positivo');
 }else {
     console.log('negativo')
-}
+} 
 
+// exercicio 5 
+
+let ang1;
+let ang2;
+let ang3;
+
+if (ang1 + ang2 + ang3 === 180){
+    console.log('true');
+}else{
+    console.log('false');
+}*/
+
+// exercicio 6
