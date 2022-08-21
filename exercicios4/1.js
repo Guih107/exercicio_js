@@ -34,8 +34,7 @@ if (num1 > num2){
     console.log(num1);
 } else{
     console.log(num2);
-} */
-
+} 
 
 // exercicio 3
 
@@ -49,5 +48,15 @@ if (numero1 > numero2 && numero3){
     console.log(numero2);
 }else{
     console.log(numero3);
+} */
+
+// exercicio 4 
+
+let posi = -37;
+
+if (posi > 0){
+    console.log('positivo');
+}else {
+    console.log('negativo')
 }
 
