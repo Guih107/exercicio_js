@@ -23,7 +23,7 @@ console.log('divisão: ', g/h);
 const i = 15;
 const j = 2;
 
-console.log('resto: ', i % j);*/
+console.log('resto: ', i % j);
 
 //exercicio 2 //
 
@@ -34,4 +34,20 @@ if (num1 > num2){
     console.log(num1);
 } else{
     console.log(num2);
+} */
+
+
+// exercicio 3
+
+const numero1 = 154;
+const numero2 = 132;
+const numero3 = 138;
+
+if (numero1 > numero2 && numero3){
+    console.log(numero1);
+} else if (numero2 > numero1 && numero3){
+    console.log(numero2);
+}else{
+    console.log(numero3);
 }
+
